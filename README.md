@@ -83,7 +83,7 @@ AgroDistrib/
 
 1. **Cloner le dépôt**
    ```bash
-   [git clone https://github.com/AmalChegdali/AgroDistrib.git](https://github.com/AmalChegdali/agrodistrib-web-mobile.git)
+   [git clone https://github.com/AmalChegdali/agrodistrib-web-mobile.git]
    cd agrodistrib-web-mobile
    ```
 
